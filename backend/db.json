@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "General",
+      "description": "ernest",
+      "id": 1
+    },
+    {
+      "title": "nobady",
+      "description": "nobady can stop reggae",
+      "id": 5
+    },
+    {
+      "title": "Edited this tittle",
+      "description": "hhffhfh",
+      "id": 9
+    },
+    {
+      "title": "My stream",
+      "description": "my description",
+      "userId": "108580329625761070654",
+      "id": 10
+    }
+  ]
+}
